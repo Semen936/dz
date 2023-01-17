@@ -1,0 +1,15 @@
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_Знакомство с языком программирования С#\task_6\obj\Debug\net7.0\task_6.csproj.AssemblyReference.cache
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_Знакомство с языком программирования С#\task_6\obj\Debug\net7.0\task_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_Знакомство с языком программирования С#\task_6\obj\Debug\net7.0\task_6.AssemblyInfoInputs.cache
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_Знакомство с языком программирования С#\task_6\obj\Debug\net7.0\task_6.AssemblyInfo.cs
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_Знакомство с языком программирования С#\task_6\obj\Debug\net7.0\task_6.csproj.CoreCompileInputs.cache
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_Знакомство с языком программирования С#\task_6\bin\Debug\net7.0\task_6.exe
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_Знакомство с языком программирования С#\task_6\bin\Debug\net7.0\task_6.deps.json
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_Знакомство с языком программирования С#\task_6\bin\Debug\net7.0\task_6.runtimeconfig.json
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_Знакомство с языком программирования С#\task_6\bin\Debug\net7.0\task_6.dll
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_Знакомство с языком программирования С#\task_6\bin\Debug\net7.0\task_6.pdb
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_Знакомство с языком программирования С#\task_6\obj\Debug\net7.0\task_6.dll
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_Знакомство с языком программирования С#\task_6\obj\Debug\net7.0\refint\task_6.dll
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_Знакомство с языком программирования С#\task_6\obj\Debug\net7.0\task_6.pdb
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_Знакомство с языком программирования С#\task_6\obj\Debug\net7.0\task_6.genruntimeconfig.cache
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_Знакомство с языком программирования С#\task_6\obj\Debug\net7.0\ref\task_6.dll
